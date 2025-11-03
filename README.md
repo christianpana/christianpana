@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=christianpana.christianpana)
 [![Website](https://img.shields.io/badge/Website-christianpana.com-000000?logo=firefox&logoColor=fff)](https://christianpana.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cristianpana-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/christianpana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-christianpana-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/christianpana)
 [![GitHub](https://img.shields.io/badge/GitHub-christianpana-181717?logo=github&logoColor=fff)](https://github.com/christianpana)
 
 ```python
